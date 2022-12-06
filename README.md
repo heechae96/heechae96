@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heechae96&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heechae96&show_icons=true&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=50%/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heechae96&show_icons=true&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=60%/>
 </a>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heechae96&theme=material-palenight&)](https://github.com/ashutosh00710/github-readme-activity-graph)
