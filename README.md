@@ -1,17 +1,18 @@
-<div align="center">
+<!-- heechae96's profile -->
 
- <br>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Heechae.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-<br><br>
-<!-- heechae96's profile -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=heechae96&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heechae96&show_icons=true&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=60%/>
-</a>
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=heechae96&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8/" width=50%>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heechae96&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8)](https://github.com/anuraghazra/github-readme-stats/" width=50%>
+
+<br>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heechae96&theme=material-palenight&)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
