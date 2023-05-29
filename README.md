@@ -11,10 +11,10 @@
 <br>
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heechae96&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8)](https://github.com/anuraghazra/github-readme-stats/" width=50%>
-
+<!-- 
 <br>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heechae96&theme=material-palenight&)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=heechae96&theme=material-palenight&)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
  
 <br>
 
